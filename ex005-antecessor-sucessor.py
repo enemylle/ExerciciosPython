@@ -2,5 +2,5 @@ print('Faça um programa que leia um número inteiro e mostre na tela o valor do
 
 n = int(input('Divite um Valor: ' ))
 
-print ('Ansalisando o valor de {}, seu sucessor é {}, e seu antecessor é {} .'.format(n, (n+1), (n-1)))
+print ('Analizando o valor de {}, seu sucessor é {}, e seu antecessor é {} .'.format(n, (n+1), (n-1)))
 
