@@ -1,3 +1,3 @@
 #crie um programa que mostre 'Olá Mundo!' na tela. 
-msg = ('Olá, Mundo!')
+msg = ('\033[1;30mOlá, Mundo!\033[m')
 print(msg)
